@@ -1,4 +1,4 @@
-echo "John Doe <jd@internet.com>"
+echo "John Doe <jd1@internet.com>"
 
 echo "Bruce Wayne <batman@wayne-corp.com"
 
